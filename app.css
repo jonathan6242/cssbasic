@@ -190,6 +190,9 @@ footer a {
     nav ul {
         display: none;
     }
+    footer ul li {
+        padding-left: 0;
+    }
     footer ul li a {
         font-size: 16px;
         margin: 0px 4px;
